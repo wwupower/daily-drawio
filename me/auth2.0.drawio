@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T09:18:46.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HZcn9hR8CKfgNhU6mWrN" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T03:46:15.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GHREe_pzp4vb4JOLLK_u" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -12,13 +12,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CEFkT6I1sK-ko6ua7co4-1" value="app" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CEFkT6I1sK-ko6ua7co4-1" value="web/app" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="60" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CEFkT6I1sK-ko6ua7co4-29" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.936;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEFkT6I1sK-ko6ua7co4-2" target="CEFkT6I1sK-ko6ua7co4-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CEFkT6I1sK-ko6ua7co4-2" value="微信资源和授权服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;sketch=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CEFkT6I1sK-ko6ua7co4-2" value="资源和授权服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;sketch=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="170" width="100" height="210" as="geometry" />
         </mxCell>
         <mxCell id="CEFkT6I1sK-ko6ua7co4-4" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;strokeWidth=2;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEFkT6I1sK-ko6ua7co4-1" target="CEFkT6I1sK-ko6ua7co4-2" edge="1">
@@ -27,7 +27,7 @@
             <mxPoint x="450" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CEFkT6I1sK-ko6ua7co4-5" value="2.申请微信用户授权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;sketch=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CEFkT6I1sK-ko6ua7co4-5" value="2.申请用户授权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;sketch=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="160" width="159.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CEFkT6I1sK-ko6ua7co4-11" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;strokeWidth=2;fontSize=16;entryX=0;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEFkT6I1sK-ko6ua7co4-9" target="CEFkT6I1sK-ko6ua7co4-1" edge="1">
